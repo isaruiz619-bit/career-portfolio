@@ -1,10 +1,19 @@
 # Career-Engineered UX Portfolio
 
 ## Live Site
-(Will be added after GitHub Pages is enabled)
+](https://isaruiz619-bit.github.io/career-portfolio/)
 
 ## Project Purpose
-This portfolio positions me as a research-driven UX Designer targeting NJ/NY product teams.
+This portfolio was built using a reverse-engineered orchestration workflow.
+
+The goal is to position myself as a research-driven UX Designer targeting NYC/NJ product teams. Instead of beginning with code, I defined a clear career outcome ("North Star"), structured a strategic sitemap, and created an AGENTS.md master letter to guide implementation.
+
+This project demonstrates:
+- Strategic thinking before execution
+- Intentional AI orchestration
+- Clear recruiter-focused positioning
+- Lightweight technical deployment via GitHub Pages
+
 
 ## Orchestration Log
-During development, the AI initially suggested a heavier framework. I pivoted to a lightweight HTML/CSS structure to ensure faster deployment and recruiter accessibility via GitHub Pages.
+The AI initially suggested heavier tooling, but I chose a lightweight HTML/CSS/JS setup so it deploys faster and cleaner on GitHub Pages. I also corrected a layout issue (content alignment) by adjusting the CSS to center sections and improve hierarchy
