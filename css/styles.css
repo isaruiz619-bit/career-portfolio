@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fb;
+  color: #12584f;
+  text-align: center; /* centers all text */
+}
+
+section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 80px 20px;
+}
+
+.hero {
+  padding-top: 120px;
+}
+
+h1 {
+  font-size: 44px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+h2 {
+  margin-top: 60px;
+  font-size: 28px;
+  font-weight: 500;
+}
+
+p {
+    font-weight: 300;
+    line-height: 1.6;
+}
+
+.cta-button {
+  display: inline-block;
+  margin-top: 25px;
+  padding: 14px 30px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
